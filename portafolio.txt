@@ -4,4 +4,4 @@ hmtl
 css
 tailwind
 js
-entiendo y puedo aprender go
+python
