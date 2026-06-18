@@ -1,0 +1,5 @@
+las tecnologias que utilizo son:
+
+hmtl 
+css
+tailwind
